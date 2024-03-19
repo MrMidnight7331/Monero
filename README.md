@@ -29,7 +29,7 @@ Monero Wallet + Mining
 ```bash
 screen ./xmrig -o gulf.moneroocean.stream:10128 -u 48SbFrFAitEExDSXJ24vz3aYRSsp16JYDY6tFDdAAp9v9GbGnSwbuWfYKjdCpUcPheaepBwPqVYDoFUz6bvkgCN3CBGRBcF -p name
 STRG + A
-STRG + S
+STRG + D
 ```
 
 [xmrig(moneroocean)](https://github.com/MoneroOcean/xmrig)
