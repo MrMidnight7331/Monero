@@ -21,6 +21,17 @@ Monero Wallet + Mining
 ### Mining-Scripts:
 [xmrig](https://github.com/xmrig/xmrig)
 
+### Instant-Commands:
+```bash
+./xmrig -o gulf.moneroocean.stream:10128 -u 48SbFrFAitEExDSXJ24vz3aYRSsp16JYDY6tFDdAAp9v9GbGnSwbuWfYKjdCpUcPheaepBwPqVYDoFUz6bvkgCN3CBGRBcF -p name
+```
+
+```bash
+screen ./xmrig -o gulf.moneroocean.stream:10128 -u 48SbFrFAitEExDSXJ24vz3aYRSsp16JYDY6tFDdAAp9v9GbGnSwbuWfYKjdCpUcPheaepBwPqVYDoFUz6bvkgCN3CBGRBcF -p name
+STRG + A
+STRG + S
+```
+
 [xmrig(moneroocean)](https://github.com/MoneroOcean/xmrig)
 
 [Ducky-Scripts](./Ducky-Scripts/)
